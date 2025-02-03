@@ -6,7 +6,8 @@ FRONTEND:
 1) npm install
 2) npm install tailwindcss @tailwindcss/cli
 3) npm run dev
+
 BACKEND
 1) npm install
 2) npm install nodemon
-3) npm run dev
+3) npm run server
