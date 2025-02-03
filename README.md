@@ -12,5 +12,5 @@ BACKEND
 1) npm install
 2) npm install nodemon
 3) npm run server
-4) 
+   
 NOTE:After runing the server you can run the frontend
